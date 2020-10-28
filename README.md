@@ -53,8 +53,11 @@
 
 ### Snapshots of the above Project
 _Main Page_
+<br>
 ![Main Screen](snapshorts/mainPage.jpeg)
+<br>
 _Inside category item Page_
+<br>
 ![Category](snapshorts/category.jpeg)
 
 ***

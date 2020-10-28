@@ -17,7 +17,7 @@
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
----
+
 
 ### Languages and Tools:
 
@@ -28,22 +28,25 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
 
 <br>
----
+
 
 ### Flutter Packages
 
 >http: ^0.12.2
 <br>
+
 >cached_network_image: ^2.3.3
 <br>
+
 >webview_flutter: ^1.0.5
 <br>
+
 >shared_preferences: ^0.5.12+2
 <br>
 
 ---
 ### News API Source
-[<img align="left" alt="News API" width="30px" src="https://hackernoon.com/hn-images/1*lAR9Uh_gJ7dp23e0vhy5Hg.png" />][api]
+[<img align="left" alt="News API" width="30px" src="https://hackernoon.com/hn-images/1*lAR9Uh_gJ7dp23e0vhy5Hg.png" />][facebook]
 
 
 

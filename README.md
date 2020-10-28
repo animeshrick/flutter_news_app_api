@@ -3,12 +3,13 @@
 ### Hi there, I'm Animesh Banerjee 👋
 
 
-- 🌱 I’m currently learning everything
+- 💪 I’m currently learning everything
 - 👯 I’m always looking for new project ideas
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play video games and spending time with family
 
 ---
+
 
 ### Connect with me:
 

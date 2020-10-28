@@ -18,16 +18,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Android Studio" width="26px" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" />]
 [<img align="left" alt="Flutter" width="26px" src="https://flutterappdev.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-25-at-12.54.42-PM-860x500.png" />
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/dart.png" />]
+[<img align="left" alt="Dart" width="26px" src="https://assets.stickpng.com/images/5847f289cef1014c0b5e486b.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
+### Flutter Packages
 
-
-<br />
-<br />
 
 ---
 

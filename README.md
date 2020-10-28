@@ -5,7 +5,7 @@
 ### Hi there, I'm Animesh Banerjee 👋
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m always looking for new project ideas
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play video games and spending time with family
@@ -23,11 +23,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android Studio" width="26px" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" />][]
-[<img align="left" alt="Flutter" width="40px" src="https://flutterappdev.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-25-at-12.54.42-PM-860x500.png" />[]
-[<img align="left" alt="Dart" width="40px" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png" />][]
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
+[<img align="left" alt="Android Studio" width="26px" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" />][github]
+[<img align="left" alt="Flutter" width="40px" src="https://flutterappdev.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-25-at-12.54.42-PM-860x500.png" />[github]
+[<img align="left" alt="Dart" width="40px" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png" />][github]
+[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br>
 
@@ -35,18 +35,14 @@
 ### Flutter Packages
 
 >[http: ^0.12.2](https://pub.dev/packages/http)
-<br>
 
 >[cached_network_image: ^2.3.3](https://pub.dev/packages/cached_network_image)
-<br>
 
 >[webview_flutter: ^1.0.5](https://pub.dev/packages/webview_flutter)
-<br>
 
 >[shared_preferences: ^0.5.12+2](https://pub.dev/packages/shared_preference)
-<br>
 
----
+
 ### News API Source
 [For Nwes API tapp here !](https://newsapi.org/)
 
@@ -54,10 +50,18 @@
 ### Snapshots of the above Project
 _Main Page_
 <br>
+<br>
+
 ![Main Screen](snapshorts/mainPage.jpeg)
 <br>
+<br>
+<br>
+<br>
+
 _Inside category item Page_
 <br>
+<br>
+
 ![Category](snapshorts/category.jpeg)
 
 ***
@@ -70,5 +74,6 @@ _Contact No_ : **9475382132**
 [instagram]: https://www.instagram.com/animesh_rik_banerjee/?hl=en
 [linkedin]: https://www.linkedin.com/in/animesh-banerjee-747012137/
 [facebook]: https://www.facebook.com/animesh.banerjee.3979489
+[github]: https://github.com/animeshrick/flutter_news_app_api
 
 

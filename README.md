@@ -20,18 +20,18 @@
 <br>
 
 
-### Languages and Tools:
+### Used Languages and Tools:
 
 [<img align="left" alt="Android Studio" width="26px" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" />][github]
 [<img align="left" alt="Flutter" width="26px" src="https://flutterappdev.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-25-at-12.54.42-PM-860x500.png" />[github]
 [<img align="left" alt="Dart" width="26px" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br>
 
 
-### Flutter Packages
+### Used Flutter Packages
 
 >[http: ^0.12.2](https://pub.dev/packages/http)
 
@@ -43,7 +43,7 @@
 
 
 ### News API Source
-[For Nwes API tapp here !](https://newsapi.org/)
+[For Nwes API tap here !](https://newsapi.org/)
 
 
 ### Snapshots of the above Project
@@ -62,6 +62,10 @@ _Inside category item Page_
 <br>
 
 ![Category](snapshorts/category.jpeg)
+<br>
+<br>
+<br>
+<br>
 
 ***
 ### Personal Details
@@ -71,14 +75,13 @@ _Contact No_ : **9475382132**
 
 ***
 ***
-***
 **Keep smiling and work harder**
-
+***
 ##_**Thank You for visiting me**_
 
 [instagram]: https://www.instagram.com/animesh_rik_banerjee/?hl=en
 [linkedin]: https://www.linkedin.com/in/animesh-banerjee-747012137/
 [facebook]: https://www.facebook.com/animesh.banerjee.3979489
-[github]: https://github.com/animeshrick/flutter_news_app_api
+[github]: https://github.com/animeshrick
 
 

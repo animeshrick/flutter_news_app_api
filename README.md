@@ -43,7 +43,7 @@
 
 
 ### News API Source
-[For Nwes API tap here !](https://newsapi.org/)
+[For News API tap here !](https://newsapi.org/)
 
 
 ### Snapshots of the above Project

@@ -1,7 +1,5 @@
 # flutter_news_app_api
 
-**Keep smiling and work harder**
-
 ### Hi there, I'm Animesh Banerjee 👋
 
 
@@ -70,6 +68,9 @@ _Email_ : **animeshece1998@gmail.com**
 <br>
 _Contact No_ : **9475382132**
 
+**Keep smiling and work harder**
+
+##_**Thank You for visiting me**_
 
 [instagram]: https://www.instagram.com/animesh_rik_banerjee/?hl=en
 [linkedin]: https://www.linkedin.com/in/animesh-banerjee-747012137/

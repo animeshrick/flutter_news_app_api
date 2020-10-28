@@ -52,11 +52,14 @@
 
 
 ### Snapshots of the above Project
-![Main Screen](snapshorts/category.jpeg)
+_Main Page_
+![Main Screen](snapshorts/mainPage.jpeg)
+_Inside category item Page_
+![Category](snapshorts/category.jpeg)
 
-
+***
 ### Personal Details
-_email_ : **animeshece1998@gmail.com**
+_Email_ : **animeshece1998@gmail.com**
 <br>
 _Contact No_ : **9475382132**
 

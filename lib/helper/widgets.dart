@@ -3,6 +3,7 @@ import 'package:flutter_newa_app_api/views/article_view.dart';
 
 Widget myAppBar() {
   return AppBar(
+    automaticallyImplyLeading: false, // Remove back button
     title: Row(
       mainAxisAlignment: MainAxisAlignment.center,
       children: <Widget>[

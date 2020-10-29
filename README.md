@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play video games and spending time with family
 
----
-
 
 ### Connect with me:
 
@@ -17,7 +15,7 @@
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br>
+---
 
 
 ### Used Languages and Tools:
@@ -45,6 +43,7 @@
 ### News API Source
 [For News API tap here !](https://newsapi.org/)
 
+---
 
 ### Snapshots of the above Project
 _Main Page_
@@ -76,7 +75,7 @@ _Contact No_ : **9475382132**
 ***
 ***
 **Keep smiling and work harder**
-***
+
 ##_**Thank You for visiting me**_
 
 [instagram]: https://www.instagram.com/animesh_rik_banerjee/?hl=en

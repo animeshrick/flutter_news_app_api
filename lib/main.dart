@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       ),
       title: 'Flutter News',
       //home: Home(),
-      home: SignIn(),
+      home: LoginSample(),
     );
   }
 }
